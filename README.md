@@ -71,11 +71,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**NeuroCareAI**](https://github.com/Rahulll066) | AI-powered platform for early dementia screening with ML-driven backend workflows | MERN, AI/ML |
-| [**PocketPay**](https://github.com/Rahulll066) | Digital wallet with secure authentication and transaction management | Next.js, NextAuth, PostgreSQL, Tailwind |
-| [**Solana Dev**](https://github.com/Rahulll066) | Solana Devnet dApp — wallet connect, balance display, message signing, airdrop & transactions | Solana, Web3.js |
-| [**Orbit**](https://github.com/Rahulll066) | Full-stack dashboard for managing personal links and notes with JWT auth | React, TypeScript, Node.js, MongoDB |
-| [**TEDxVJIT Website**](https://github.com/Rahulll066) | Official event website for TEDx VJIT | React, Next.js |
+| [**NeuroCareAI**](https://neuro-care-ai.vercel.app/) | AI-powered platform for early dementia screening with ML-driven backend workflows | MERN, AI/ML |
+| [**PocketPay**](https://pocketpay-pearl.vercel.app/) | Digital wallet with secure authentication and transaction management | Next.js, NextAuth, PostgreSQL, Tailwind |
+| [**Solana Dev**](https://solana-dev-peach.vercel.app/) | Solana Devnet dApp — wallet connect, balance display, message signing, airdrop & transactions | Solana, Web3.js |
+| [**Orbit**](https://orbit-zeta-one.vercel.app/) | Full-stack dashboard for managing personal links and notes with JWT auth | React, TypeScript, Node.js, MongoDB |
+| [**TEDxVJIT Website**](https://github.com/Rahulll066/TedxVjit-2025) | Official event website for TEDx VJIT | React, Next.js |
 | [**Play Zone**](https://playzone-realtime-multiplayer.vercel.app/) | Real-time multiplayer gaming application | Next.js, Monorepo, WebSocket |
 
 ---
