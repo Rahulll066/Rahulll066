@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Rahul Sai Nadh 👋</h1>
 
-<p align="center">
-  <img src="https://ik.imagekit.io/0tglkhk4r/rahul_img.jpeg" width="220" style="border-radius:50%;" />
-</p>
-
 <h3 align="center">Full Stack Developer | Cybersecurity | AI/ML</h3>
 
 <p align="center">
